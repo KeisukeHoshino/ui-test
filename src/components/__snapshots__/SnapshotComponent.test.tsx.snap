@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Snapshotテスt 1`] = `
+<div>
+  <div>
+    <p>
+      Vue
+    </p>
+  </div>
+</div>
+`;
