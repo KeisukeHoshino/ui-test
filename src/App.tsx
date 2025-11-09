@@ -1,5 +1,6 @@
 import AsyncComponent from "./components/AsyncComponent";
 import Button from "./components/Button";
+import Counter from "./components/Counter";
 import Form from "./components/Form";
 import { UserSearch } from "./components/UserSearch";
 
@@ -10,6 +11,7 @@ function App() {
       <Form />
       <AsyncComponent />
       <UserSearch />
+      <Counter />
     </>
   );
 }
